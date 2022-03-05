@@ -7,6 +7,8 @@
  - RESTful
  - GET, POST.
  - Package Structuring.
+ - Thymeleaf.
+ - Embedded Database.
 
 ## Screenshots
 ![enter image description here](https://github.com/mohammedhaddad97/Hotel-Reservation/blob/master/Media/SpringBootHotelReservation.gif?raw=true)
